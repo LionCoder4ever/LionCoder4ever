@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LionCoder4ever
 - 👀 I’m interested in: data middle platform
 - 🌱 I’m currently learning: rust
-- 💞️ I’m looking to: fully remote job
+- 💞️ I’m looking to: become senior developer
 - 📫 How to reach me: kzwcoder2015@163.com
 
 <!---
